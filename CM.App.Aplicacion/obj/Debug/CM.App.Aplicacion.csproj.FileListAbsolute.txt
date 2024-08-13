@@ -1,0 +1,14 @@
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.Aplicacion\obj\Debug\CM.App.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.Aplicacion\obj\Debug\CM.App.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.Aplicacion\bin\Debug\CM.App.Aplicacion.dll.config
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.Aplicacion\bin\Debug\CM.App.Aplicacion.dll
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.Aplicacion\bin\Debug\CM.App.Aplicacion.pdb
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.Aplicacion\bin\Debug\CM.Dominio.Modelo.dll
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.Aplicacion\bin\Debug\CM.InfraAccesoDatos.dll
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.Aplicacion\bin\Debug\CM.Dominio.Modelo.pdb
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.Aplicacion\bin\Debug\CM.Dominio.Modelo.dll.config
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.Aplicacion\bin\Debug\CM.InfraAccesoDatos.pdb
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.Aplicacion\bin\Debug\CM.InfraAccesoDatos.dll.config
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.Aplicacion\obj\Debug\CM.App.A.DD53DF1A.Up2Date
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.Aplicacion\obj\Debug\CM.App.Aplicacion.dll
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.Aplicacion\obj\Debug\CM.App.Aplicacion.pdb

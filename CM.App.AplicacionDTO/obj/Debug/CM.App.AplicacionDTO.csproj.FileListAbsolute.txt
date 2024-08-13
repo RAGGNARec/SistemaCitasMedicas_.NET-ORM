@@ -1,0 +1,7 @@
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.AplicacionDTO\bin\Debug\CM.App.AplicacionDTO.dll.config
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.AplicacionDTO\bin\Debug\CM.App.AplicacionDTO.dll
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.AplicacionDTO\bin\Debug\CM.App.AplicacionDTO.pdb
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.AplicacionDTO\obj\Debug\CM.App.AplicacionDTO.csproj.AssemblyReference.cache
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.AplicacionDTO\obj\Debug\CM.App.AplicacionDTO.csproj.CoreCompileInputs.cache
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.AplicacionDTO\obj\Debug\CM.App.AplicacionDTO.dll
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.App.AplicacionDTO\obj\Debug\CM.App.AplicacionDTO.pdb

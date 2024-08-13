@@ -1,0 +1,7 @@
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.Dominio.Servicio\bin\Debug\CM.Dominio.Servicio.dll.config
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.Dominio.Servicio\bin\Debug\CM.Dominio.Servicio.dll
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.Dominio.Servicio\bin\Debug\CM.Dominio.Servicio.pdb
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.Dominio.Servicio\obj\Debug\CM.Dominio.Servicio.csproj.AssemblyReference.cache
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.Dominio.Servicio\obj\Debug\CM.Dominio.Servicio.csproj.CoreCompileInputs.cache
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.Dominio.Servicio\obj\Debug\CM.Dominio.Servicio.dll
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.Dominio.Servicio\obj\Debug\CM.Dominio.Servicio.pdb

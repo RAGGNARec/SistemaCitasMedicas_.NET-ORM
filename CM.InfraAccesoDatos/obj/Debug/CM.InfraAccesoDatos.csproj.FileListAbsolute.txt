@@ -1,0 +1,15 @@
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.InfraAccesoDatos\bin\Debug\CM.InfraAccesoDatos.dll.config
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.InfraAccesoDatos\bin\Debug\CM.InfraAccesoDatos.dll
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.InfraAccesoDatos\bin\Debug\CM.InfraAccesoDatos.pdb
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.InfraAccesoDatos\bin\Debug\CM.Dominio.Modelo.dll
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.InfraAccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.InfraAccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.InfraAccesoDatos\bin\Debug\CM.Dominio.Modelo.pdb
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.InfraAccesoDatos\bin\Debug\CM.Dominio.Modelo.dll.config
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.InfraAccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.InfraAccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.InfraAccesoDatos\obj\Debug\CM.InfraAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.InfraAccesoDatos\obj\Debug\CM.InfraAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.InfraAccesoDatos\obj\Debug\CM.Infra.F7DC6D1E.Up2Date
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.InfraAccesoDatos\obj\Debug\CM.InfraAccesoDatos.dll
+C:\Users\jav17\Desktop\SistemaCitasMedias\CM.InfraAccesoDatos\obj\Debug\CM.InfraAccesoDatos.pdb
